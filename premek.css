@@ -63,6 +63,12 @@
 }
 
 
+.pt-caracteristicas .flex-caption  h1{
+	margin-bottom: 0!important;
+	color: white;
+}
+
+
 /* MENU */
 
 
@@ -113,6 +119,15 @@
      padding-top: 0!important; 
 }
 
+body.stretched #header.full-header .container{
+	width: 1205px!important;
+}
+
+#header.full-header #primary-menu > ul {
+	margin-right: 0!important;
+	padding-right: 0!important;
+}
+
 
 
 
@@ -151,6 +166,7 @@
 	margin-top: 7em;
 	display: flex;
 	justify-content: space-between;
+	margin-bottom: 7em;
 }
 
 .pt-i-images img{
