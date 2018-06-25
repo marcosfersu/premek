@@ -1,0 +1,194 @@
+/* kandi */
+
+.principal{
+	margin-top: 3em;
+}
+
+.galeria{
+	margin: 3em 0 7em 0;
+}
+
+.p-logo{
+	width: 23.6%!important;
+}
+
+.p-intitucional{
+    margin-right: 18%!important;
+    margin-bottom: 2em!important;
+}
+
+.p-line{
+	margin-bottom: 0!important;
+}
+
+.ipost .entry-title h3 a:hover, .ipost .entry-title h4 a:hover, .ipost:hover h3 a{
+    color: #702837!important;
+}
+
+
+
+/* PISOS TECNICOS */
+
+.pt-caracteristicas h3{
+	height: 4em;
+    padding-top: 1.3em;
+}
+
+.pt-tipos-pisos{
+	display: flex;
+	justify-content: space-around;
+	margin: 9em 0;
+}
+
+.pt-tipos-pisos .pt-images{
+	width: 30%!important;
+	padding: 1em;
+	border: 1px solid gray;
+	border-radius: 6%;
+}
+
+.pt-tipos-pisos .pt-images:hover{
+/*	border: 2px solid gray; */
+    box-shadow: 0 0 20px 1px #888888;
+    transition: all ease .4s;
+}
+
+.pt-tipos-pisos .pt-images h3{
+	text-align: center;
+}
+
+
+.feature-box .fbox-icon i, .feature-box .fbox-icon img {
+    background-color: #702837!important;
+}
+
+
+/* MENU */
+
+
+#primary-menu ul li:hover > a, #primary-menu ul li.current > a {
+    color: #702837!important;
+}
+
+.dark #primary-menu:not(.not-dark) ul ul, .dark #primary-menu:not(.not-dark) ul li .mega-menu-content, #primary-menu.dark ul ul, #primary-menu.dark ul li .mega-menu-content {
+    background-color: #333;
+    border-color: #3F3F3F;
+    border-top-color: #702837!important;
+}    
+
+#header.full-header #primary-menu > ul {
+    border-right: none!important;
+}
+
+#header.full-header #logo {
+    border-right: none!important;
+}
+
+/*#header, #header-wrap, #logo img {
+    height: auto!important;    
+}
+
+#logo img{
+    padding: 39px 15px;    
+    transition: all ease .4s!important;    
+}
+
+#header.sticky-header:not(.static-sticky) #logo img {
+    padding-top: 19px;
+    padding-bottom: 19px;
+    transition: all ease .4s;
+}
+
+*/
+
+#primary-menu ul li:hover > a, #primary-menu ul li.current > a {
+    color: #702837!important;
+}
+
+.dark #header.transparent-header.full-header:not(.sticky-header) #header-wrap:not(.not-dark), #header.transparent-header.full-header.dark:not(.sticky-header) #header-wrap:not(.not-dark) {
+    background-color: white;
+}
+
+.boxed-slider {
+     padding-top: 0!important; 
+}
+
+
+
+
+
+
+.pt-items h3{
+    font-size: 42px!important;	
+}
+
+
+.portfolio-1 .portfolio-desc {
+    padding: 10px 40px 10px 0!important;
+    width: 55%!important;
+    margin-right: 6em;
+}
+
+.portfolio-1 .portfolio-desc p {
+    margin: 10px 0 10px 0!important;
+    font-size: 14px;
+    line-height: 1.5!important;
+}
+
+.portfolio-desc .pt-i-title, .pt-i-list .pt-i-title{
+	height: auto!important;
+	margin-top: 2em!important;
+	font-size: 22px!important;
+}
+
+.pt-i-datos p{
+	font-size: 16px!important;
+	color: #702837!important;
+
+}
+
+.pt-i-images{
+	margin-top: 7em;
+	display: flex;
+	justify-content: space-between;
+}
+
+.pt-i-images img{
+	width: auto;
+}
+
+
+.portfolio-1 .portfolio-item .portfolio-image {
+    float: left;
+    margin-right: 0;
+    width: 35%!important;
+    height: auto;
+}
+
+.flex-control-nav li a {
+    border: 1px solid #212529!important;
+}
+
+.flex-control-nav li:hover a, .flex-control-nav li a.flex-active {
+    background-color:  #212529!important;
+}
+
+
+
+
+.pt-i-list{
+	display: flex;
+	justify-content: space-between;
+}
+
+.pt-i-list>div{
+	width: 45%;
+}
+
+.pt-i-list ul{
+	list-style: none;
+}
+
+.pt-i-list ul p{
+	margin-bottom: 15px!important;
+}
