@@ -139,6 +139,35 @@
     min-width: 30%;
 }
 
+
+
+.buy-kaindl-interna img:nth-last-child(1){
+    margin: 0 2em;
+}
+
+.porfolio-kaindl-interna{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+}
+
+.porfolio-kaindl-interna h2{
+    text-align: center;
+}
+
+.porfolio-kaindl-interna .producto-kaindl-interna{
+    width: 22%;
+    min-width: 200px;
+    margin: 2em auto;
+}
+
+.todos-kaindl-interna h2{
+    text-align: center;
+    margin-top: 3em;
+}
+
+
+
 /* PISOS TECNICOS */
 
 .pt-caracteristicas h3{
