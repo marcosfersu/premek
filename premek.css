@@ -1,6 +1,11 @@
 /* bread crumb*/
 
-.arrows { white-space: nowrap; }
+.arrows { 
+    white-space: nowrap;
+    margin-bottom: 4em; 
+    padding-right: 10px;
+    padding-left: 10px;    
+}
 .arrows li {
     display: inline-block;
     line-height: 26px;
@@ -106,6 +111,11 @@
     margin-bottom: 0;
 }
 
+.pt-i-title span{     
+    color: #702837!important; 
+    font-weight: 100;   
+}
+
 .buy-kaindl-interna p{
     margin-bottom: 1em;
 }
@@ -113,6 +123,20 @@
 .buy-kaindl-interna a{
     width: 100%;
     font-weight: 100!important;
+}
+
+.list-kaindl-interna h3{
+    font-weight: bold;
+}
+
+.list-kaindl-interna ul{
+    list-style: none;
+}
+
+.list-kaindl-interna p{
+    margin-bottom: 1em;
+    display: inline-block;
+    min-width: 30%;
 }
 
 /* PISOS TECNICOS */
