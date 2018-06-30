@@ -349,3 +349,20 @@ body.stretched #header.full-header .container{
 .pt-i-list ul p{
 	margin-bottom: 15px!important;
 }
+
+.kaindl-interna-texto{
+    margin-bottom: 0!important;
+}
+
+
+.kaindl-interna-texto p{
+    font-size: 1.3em;
+}
+
+.sin-linea::after{
+    border-top: none!important;
+}
+
+.margin-top{
+    margin-top: 1em;
+}
