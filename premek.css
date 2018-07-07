@@ -434,3 +434,45 @@ body.stretched #header.full-header .container{
     width: 34%!important;
 }
 
+
+
+
+
+.clientes{
+    display: flex;
+    justify-content: space-between;
+    flex-flow: wrap;
+}
+
+.clientes .clientes-item{
+    margin-bottom: 10em;
+}
+
+.clientes .clientes-item ul{
+    list-style: none;
+}
+
+.clientes .clientes-item li{
+    display: flex;
+    flex-flow: row;
+    align-items: flex-start;
+    border-top: 1px gray solid;
+    padding-top: 2em;
+}
+
+.clientes .clientes-item li>div{
+    margin-left: 2em;
+}
+
+.clientes .clientes-item img{
+    width: 130px;
+}
+
+.clientes .clientes-item h4{
+    margin-bottom: .6em;
+}
+
+.bottom-clientes{
+    margin-bottom: 2em;
+    display: flex
+}
