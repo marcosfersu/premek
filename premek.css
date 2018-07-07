@@ -1,5 +1,9 @@
 /* bread crumb*/
 
+a{
+    color: black!important;
+}
+
 .arrows { 
     white-space: nowrap;
     margin-bottom: 4em; 
@@ -261,7 +265,7 @@
 }
 
 body.stretched #header.full-header .container{
-	width: 1205px!important;
+	max-width: 1205px!important;
 }
 
 #header.full-header #primary-menu > ul {
@@ -366,3 +370,67 @@ body.stretched #header.full-header .container{
 .margin-top{
     margin-top: 1em;
 }
+
+
+
+
+
+
+/* PISOS LAMINADOS */
+
+.pisos-laminados .row{
+    justify-content: space-around;
+    margin-top: 8em;
+    margin-bottom: 6em;
+}
+
+.container .pisos-laminados-list p{
+    color: gray;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px!important;
+    font-size: .9em;
+}
+
+.pisos-laminados-title{
+    margin-bottom: 1em!important;
+    font-size: 1.3em!important;
+    font-weight: 600;
+}
+
+
+
+#content .pisos-laminados-interna{
+    margin-right: 13%!important;
+    width: 50%!important;
+}
+
+.p-l-i-logo{
+    width: 36.5%!important;
+}
+
+.p-l-i-line{
+    margin: 0!important;
+}
+
+
+
+.producto-p-l-interna{
+    width: 34%!important;
+    margin-bottom: 6em!important;
+}
+
+.producto-p-l-interna div{
+    padding: 2em;
+}
+
+
+.producto-p-l-interna div ul{
+    list-style: none;
+    margin-bottom: 1em!important;
+}
+
+.todos-p-l-interna{
+    width: 34%!important;
+}
+
